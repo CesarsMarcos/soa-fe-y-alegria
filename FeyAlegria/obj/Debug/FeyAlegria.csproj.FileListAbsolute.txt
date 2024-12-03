@@ -1,0 +1,141 @@
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\FeyAlegria.dll.config
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\FeyAlegria.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\FeyAlegria.pdb
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\csc.exe
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\csc.exe.config
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\csc.rsp
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\csi.exe
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\csi.exe.config
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\csi.rsp
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.AppContext.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Console.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Net.Http.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\vbc.exe
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\vbc.exe.config
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\vbc.rsp
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\obj\Debug\FeyAlegria.csproj.AssemblyReference.cache
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\obj\Debug\FeyAlegria.csproj.CoreCompileInputs.cache
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\obj\Debug\FeyAlegria.csproj.Up2Date
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\obj\Debug\FeyAlegria.dll
+C:\Users\Jean Paul Rua\source\repos\FeyAlegria\FeyAlegria\obj\Debug\FeyAlegria.pdb
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\obj\Debug\FeyAlegria.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\FeyAlegria.dll.config
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\FeyAlegria.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\FeyAlegria.pdb
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\csc.exe
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\csc.exe.config
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\csc.rsp
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\csi.exe
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\csi.exe.config
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\csi.rsp
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\System.Buffers.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\System.Memory.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\vbc.exe
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\vbc.exe.config
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\vbc.rsp
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\obj\Debug\FeyAlegria.csproj.AssemblyReference.cache
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\obj\Debug\FeyAlegria.csproj.CopyComplete
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\obj\Debug\FeyAlegria.dll
+C:\Users\Cesar\Desktop\FeyAlegria\FeyAlegria\FeyAlegria\obj\Debug\FeyAlegria.pdb
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\FeyAlegria.dll.config
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\FeyAlegria.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\FeyAlegria.pdb
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\csc.exe
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\csc.exe.config
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\csc.rsp
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\csi.exe
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\csi.exe.config
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\csi.rsp
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\System.Buffers.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\System.Collections.Immutable.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\System.Memory.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\System.Numerics.Vectors.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\System.Reflection.Metadata.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\vbc.exe
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\vbc.exe.config
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\vbc.rsp
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\VBCSCompiler.exe
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\roslyn\VBCSCompiler.exe.config
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\obj\Debug\FeyAlegria.csproj.AssemblyReference.cache
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\obj\Debug\FeyAlegria.csproj.CoreCompileInputs.cache
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\obj\Debug\FeyAlegria.csproj.CopyComplete
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\obj\Debug\FeyAlegria.dll
+E:\GitHub\soa-fe-y-alegria\FeyAlegria\obj\Debug\FeyAlegria.pdb
