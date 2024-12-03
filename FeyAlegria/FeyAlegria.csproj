@@ -66,6 +66,7 @@
   <ItemGroup>
     <Content Include="Alumno.asmx" />
     <Content Include="AsignacionDeCursos.asmx" />
+    <Content Include="Cargo.asmx" />
     <Content Include="Cursos.asmx" />
     <Content Include="Docentes.asmx" />
     <Content Include="Personas.asmx" />
@@ -81,6 +82,10 @@
     </Compile>
     <Compile Include="AsignacionDeCursos.asmx.cs">
       <DependentUpon>AsignacionDeCursos.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cargo.asmx.cs">
+      <DependentUpon>Cargo.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Cursos.asmx.cs">
